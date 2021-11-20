@@ -1,6 +1,8 @@
 # tool-like-f247
 
-npm install
-node index.js
-
-Note: fill url in links.txt
+<ul>
+  <li>npm install</li>
+  <li>node index.js</li>
+<ul>
+  
+<b>Note: fill url in links.txt</b>
